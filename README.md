@@ -162,7 +162,7 @@ You can test the following features:
 - **Email:** admin@accenture.com
 - **Code:** 123456
 
-### ✅ Features Available for Test
+### ✅ Features Available for Testing
 - Smart dashboard with interactive cards and AI search
 - Speaker management with detailed modals and favorites system
 - Lecture registration with vacancy control and filters by topic
@@ -170,4 +170,18 @@ You can test the following features:
 - QR Scanner for networking and automatic check-in
 - Profile card with QR Code for digital networking
 - Categorized Help Center (FAQ) with smart search
-- Optimized responsive interface
+- Responsive interface optimized for mobile and desktop
+
+---
+
+## 📌 Final Considerations
+
+This project is an academic proof of concept that applies modern technologies to build automated service experiences in corporate events.
+
+The code is available for learning, testing and future development purposes.
+
+---
+
+© 2025 Digital Concierge – Accenture SQUAD 18
+
+*Porto Digital Technology Residency*
