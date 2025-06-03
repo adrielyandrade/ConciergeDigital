@@ -1,4 +1,4 @@
-# 🚀 Concierge Digital App – Squad 18 (Accenture)
+# Concierge Digital App – Squad 18 (Accenture)
 
 A complete web platform for corporate event management with a focus on modern digital experience, intelligent networking and efficient management of agendas and speakers.
 
