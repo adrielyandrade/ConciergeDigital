@@ -179,9 +179,3 @@ You can test the following features:
 This project is an academic proof of concept that applies modern technologies to build automated service experiences in corporate events.
 
 The code is available for learning, testing and future development purposes.
-
----
-
-© 2025 Digital Concierge – Accenture SQUAD 18
-
-*Porto Digital Technology Residency*
